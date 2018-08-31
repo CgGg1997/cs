@@ -7,5 +7,6 @@ public class democs {
 
     public void csone(){
         System.out.println("这是一次测试");
+        System.out.println("第二次测试");
     }
 }
